@@ -27,3 +27,7 @@ h5 {
     align-content: center;
     width: 100%;
 }
+
+.col {
+    margin-bottom: 2.5rem;
+}
