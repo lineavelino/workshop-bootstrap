@@ -18,26 +18,3 @@ a > img {
     width: 120px;
     height: auto;
 }
-
-.carousel,
-.row {
-    margin-bottom: 20px;
-}
-
-.carousel {
-    max-height: 400px;
-    overflow: hidden;
-    margin-top: 30px;
-}
-
-.carousel img {
-    width: auto;
-}
-
-.btn-primary {
-    background-color: darkgrey;
-}
-
-.btn-primary:hover {
-    background-color: darkgreen;
-}
