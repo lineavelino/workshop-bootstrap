@@ -3,6 +3,10 @@ footer {
     background-color: #bb044d;
 }
 
+#sobre {
+    margin: 5% auto;
+}
+
 footer {
     text-align: center;
     padding: 30px 0;
