@@ -23,8 +23,17 @@ a > img {
     height: auto;
 }
 
+h1, h2 {
+    font-family: 'Yaldevi', sans-serif;
+}
+
 h5 {
+    font-family: 'Lato', sans-serif;
     margin-bottom: 1rem;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
 }
 
 .rounded-circle{
