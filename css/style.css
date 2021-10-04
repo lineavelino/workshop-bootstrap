@@ -53,8 +53,9 @@ p {
 }
 
 .rounded-circle{
-    align-content: center;
     width: 100%;
+    margin-top: 1.6em;
+    margin-bottom: 1.6em;
 }
 
 .col {
