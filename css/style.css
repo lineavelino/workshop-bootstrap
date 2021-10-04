@@ -63,6 +63,11 @@ p {
 }
 
 #topics .col {
+    margin: 0;
+}
+
+#topics p {
+    margin: 0;
 }
 
 .card-img-top {
