@@ -38,9 +38,13 @@ h1, h2 {
     font-family: 'Yaldevi', sans-serif;
 }
 
-h5 {
+h4, h5 {
     font-family: 'Lato', sans-serif;
     margin-bottom: 1rem;
+}
+
+h5{
+    text-align: center;
 }
 
 p {
