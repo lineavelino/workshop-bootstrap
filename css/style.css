@@ -57,5 +57,12 @@ p {
 }
 
 #topics .col {
-    margin: auto;
+
+.btn {
+    align-self: center;
+    margin-bottom: 2.5rem;
+}
+
+.btn:hover {
+    background-color: #53002b;
 }
