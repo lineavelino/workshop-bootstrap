@@ -57,6 +57,13 @@ p {
 }
 
 #topics .col {
+}
+
+.card-img-top {
+    width: 40%;
+    align-self: center;
+    padding: 5%;
+}
 
 .btn {
     align-self: center;
